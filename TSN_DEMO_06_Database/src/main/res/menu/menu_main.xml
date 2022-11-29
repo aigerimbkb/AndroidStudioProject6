@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context="kz.talipovsn.database.MainActivity">
+    <item
+        android:id="@+id/email"
+        android:orderInCategory="100"
+        android:title="@string/Написать_предложение_автору"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/large_font"
+        android:checkable="true"
+        android:orderInCategory="101"
+        android:title="@string/Большой_шрифт"/>
+    <item
+        android:id="@+id/exit"
+        android:orderInCategory="102"
+        android:title="@string/Выход"
+        app:showAsAction="never"/>
+</menu>

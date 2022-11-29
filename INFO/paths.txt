@@ -1,0 +1,2 @@
+﻿databases:     /data/data/kz.talipovsn.database/databases/phones
+shared_prefs:  /data/data/kz.talipovsn.database/shared_prefs/Config.xml
